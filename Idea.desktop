@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=4.0
+Type=Application
+Name=Idea
+Icon=/home/uca/Documents/ideaIC-2023.3.5-aarch64/idea-IC-233.14808.21/bin/idea.png
+Exec=/home/uca/Documents/ideaIC-2023.3.5-aarch64/idea-IC-233.14808.21/bin/idea.sh
+Comment=Idea
+Categories=Development;IDE;
+Terminal=false
